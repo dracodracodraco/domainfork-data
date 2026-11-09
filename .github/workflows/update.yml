@@ -1,0 +1,31 @@
+name: Update data
+on:
+  schedule:
+    - cron: "40 22 * * *"   # 06:40 Malaysia time, every day
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node update.mjs
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "DomainFork data"
+          git config user.email "data@domainfork.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -q -m "data: $(date -u +%F)"
+            git push -q
+          fi

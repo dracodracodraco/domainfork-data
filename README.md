@@ -6,6 +6,7 @@ One file per series in `series/`, one line per day: `date,series,value,unit`. No
 - **Licence:** free to use with credit to DomainFork and the original source (CC BY 4.0).
 - **Check this copy:** `chain.json` is the public hash chain of the archive (also at https://domainfork.com/api/data/chain). Each entry hashes the whole store and the entry before it.
 - **Fork it, host it elsewhere:** this repository is a full copy with its whole history. The archive does not depend on any one host.
+- **Web page:** https://dracodracodraco.github.io/domainfork-data/
 
 Updated 2026-11-09: 63 series, about 262 points.
 
