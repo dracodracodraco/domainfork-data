@@ -1,0 +1,25 @@
+{
+ "entries": 2,
+ "intact": true,
+ "brokenAt": null,
+ "chain": [
+  {
+   "n": 1,
+   "at": "2026-11-08T11:26:27.309Z",
+   "hash": "f6e5cd00ef1d8aea3c0336a5627224e209dca6161dbf34da94f82cdf97a23f54",
+   "prev": "genesis",
+   "series": 62,
+   "points": 199,
+   "link": "faadcbc1ca036c98cd9b72b2e04ad44f4e062d6444b1c02307f9c582682160a4"
+  },
+  {
+   "n": 2,
+   "at": "2026-11-09T08:23:54.336Z",
+   "hash": "304036ce093bf06bd7b5e2dd60c00d8a67f541425a6298136111165d7f3f59e0",
+   "prev": "faadcbc1ca036c98cd9b72b2e04ad44f4e062d6444b1c02307f9c582682160a4",
+   "series": 63,
+   "points": 262,
+   "link": "f4a357aeeccd99de711ab13eca832a8a722666bd54b874db2284e42b28a4683c"
+  }
+ ]
+}
