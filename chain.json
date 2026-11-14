@@ -1,5 +1,5 @@
 {
- "entries": 5,
+ "entries": 6,
  "intact": true,
  "brokenAt": null,
  "chain": [
@@ -47,6 +47,15 @@
    "series": 144,
    "points": 37380,
    "link": "11980998cf9cc101dc36f2b355db3efa83fb4c294939cd8a679ee102a6001fa1"
+  },
+  {
+   "n": 6,
+   "at": "2026-11-13T10:00:43.228Z",
+   "hash": "a11470de61f86bb057c4063e4f17baa65ba6dd8934e3c157562ed8f4e663fcd1",
+   "prev": "11980998cf9cc101dc36f2b355db3efa83fb4c294939cd8a679ee102a6001fa1",
+   "series": 145,
+   "points": 41247,
+   "link": "71dac04aa407b38143267167750adfd59af5396837e24b262e144a0802bd5543"
   }
  ]
 }
