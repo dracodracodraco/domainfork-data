@@ -554,10 +554,10 @@
    "unit": "price",
    "group": "markets",
    "source": "Market data",
-   "points": 7,
+   "points": 8,
    "first": "2026-11-08",
-   "last": "2026-11-14",
-   "latest": 68242.08,
+   "last": "2026-11-15",
+   "latest": 63948.84,
    "url": "https://domainfork.com/data/series/market.bitcoin",
    "csv": "https://domainfork.com/api/data/series/market.bitcoin?format=csv"
   },
@@ -570,7 +570,7 @@
    "points": 7,
    "first": "2026-11-07",
    "last": "2026-11-14",
-   "latest": 96.08,
+   "latest": 95.84,
    "url": "https://domainfork.com/data/series/market.brent",
    "csv": "https://domainfork.com/api/data/series/market.brent?format=csv"
   },
@@ -596,7 +596,7 @@
    "points": 7,
    "first": "2026-11-07",
    "last": "2026-11-14",
-   "latest": 3887.6,
+   "latest": 3886.3,
    "url": "https://domainfork.com/data/series/market.gold",
    "csv": "https://domainfork.com/api/data/series/market.gold?format=csv"
   },
@@ -661,7 +661,7 @@
    "points": 7,
    "first": "2026-11-08",
    "last": "2026-11-14",
-   "latest": 4.085,
+   "latest": 4.0845,
    "url": "https://domainfork.com/data/series/market.usd-myr",
    "csv": "https://domainfork.com/api/data/series/market.usd-myr?format=csv"
   },
