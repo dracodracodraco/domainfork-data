@@ -8,7 +8,7 @@ One file per series in `series/`, one line per day: `date,series,value,unit`. No
 - **Fork it, host it elsewhere:** this repository is a full copy with its whole history. The archive does not depend on any one host.
 - **Web page:** https://dracodracodraco.github.io/domainfork-data/
 
-Updated 2026-11-21: 117 series, about 36,953 points.
+Updated 2026-11-22: 117 series, about 36,954 points.
 
 ## currencies
 
@@ -66,15 +66,15 @@ Updated 2026-11-21: 117 series, about 36,953 points.
 
 ## markets
 
-- [Bitcoin](series/market.bitcoin.csv): 14 points, 2026-11-08 to 2026-11-21, latest 58555.38 price ([chart and full history](https://domainfork.com/data/series/market.bitcoin))
-- [Brent](series/market.brent.csv): 13 points, 2026-11-07 to 2026-11-21, latest 89.87 price ([chart and full history](https://domainfork.com/data/series/market.brent))
+- [Bitcoin](series/market.bitcoin.csv): 15 points, 2026-11-08 to 2026-11-22, latest 60007.34 price ([chart and full history](https://domainfork.com/data/series/market.bitcoin))
+- [Brent](series/market.brent.csv): 13 points, 2026-11-07 to 2026-11-21, latest 89.95 price ([chart and full history](https://domainfork.com/data/series/market.brent))
 - [Fbm Klci](series/market.fbm-klci.csv): 10 points, 2026-11-06 to 2026-11-20, latest 1556.51 price ([chart and full history](https://domainfork.com/data/series/market.fbm-klci))
-- [Gold](series/market.gold.csv): 13 points, 2026-11-07 to 2026-11-21, latest 3539 price ([chart and full history](https://domainfork.com/data/series/market.gold))
+- [Gold](series/market.gold.csv): 13 points, 2026-11-07 to 2026-11-21, latest 3515.4 price ([chart and full history](https://domainfork.com/data/series/market.gold))
 - [Hang Seng](series/market.hang-seng.csv): 11 points, 2026-11-06 to 2026-11-20, latest 22410.8 price ([chart and full history](https://domainfork.com/data/series/market.hang-seng))
 - [Nikkei 225](series/market.nikkei-225.csv): 11 points, 2026-11-06 to 2026-11-20, latest 56436.65 price ([chart and full history](https://domainfork.com/data/series/market.nikkei-225))
 - [S P 500](series/market.s-p-500.csv): 12 points, 2026-11-07 to 2026-11-21, latest 6910.39 price ([chart and full history](https://domainfork.com/data/series/market.s-p-500))
 - [Straits Times](series/market.straits-times.csv): 10 points, 2026-11-06 to 2026-11-20, latest 4975.17 price ([chart and full history](https://domainfork.com/data/series/market.straits-times))
-- [Usd Myr](series/market.usd-myr.csv): 14 points, 2026-11-08 to 2026-11-21, latest 4.11 price ([chart and full history](https://domainfork.com/data/series/market.usd-myr))
+- [Usd Myr](series/market.usd-myr.csv): 14 points, 2026-11-08 to 2026-11-21, latest 4.1105 price ([chart and full history](https://domainfork.com/data/series/market.usd-myr))
 - [99 Speed Mart share price](series/stock.99-speed-mart.csv): 9 points, 2026-11-10 to 2026-11-20, latest 3.04 RM ([chart and full history](https://domainfork.com/data/series/stock.99-speed-mart))
 - [Aeon Credit share price](series/stock.aeon-credit.csv): 9 points, 2026-11-10 to 2026-11-20, latest 4.49 RM ([chart and full history](https://domainfork.com/data/series/stock.aeon-credit))
 - [Affin Bank share price](series/stock.affin-bank.csv): 9 points, 2026-11-10 to 2026-11-20, latest 1.91 RM ([chart and full history](https://domainfork.com/data/series/stock.affin-bank))
